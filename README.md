@@ -7,6 +7,7 @@
 
 - Functionality made easy!
 - Easy to start
+- Full game in Russian
 - etc.
 
 
